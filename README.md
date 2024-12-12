@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ikegorgon1040@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1aXrA5J-1Si-ieP3_EBzTDcxXLps0PesFLU4s63iQYGk/edit?usp=sharing](https://docs.google.com/document/d/1aXrA5J-1Si-ieP3_EBzTDcxXLps0PesFLU4s63iQYGk/edit?usp=sharing)
-
 - ⚡ Fun fact **I have seen all of Jackie Chan Adventures at least 8 times.**
 
 <h3 align="left">Connect with me:</h3>
