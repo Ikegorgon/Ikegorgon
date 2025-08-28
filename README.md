@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikegorgon" alt="ikegorgon" /></a> </p>
 
-- 🔭 I’m currently working as **An Associate Software Engineer**
+- 🔭 I’m currently working as an **Associate Software Engineer**
 
 - 🌱 I’m currently learning **JavaScript & Python**
 
